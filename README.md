@@ -106,4 +106,4 @@ API Gateway → Lambda → SQS → Lambda → SNS → Email
 
 ## Author
 
-Tejashri
+Yogesh
